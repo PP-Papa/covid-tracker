@@ -1,5 +1,5 @@
 
-# Web App: Travel Guide In Covid
+# Java App: Covid Tracker
 
 ## Background
 <b>Covid-tracker</b>, is a java application that answers your real estate and covid related questions in Philadelphia.
